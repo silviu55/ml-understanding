@@ -4,3 +4,5 @@ Using the excellent book of Aurélian Géron "Hands-On Machine Learning with Sci
 From chapter 2 - <a href="../master/Bike Sharing Regression.ipynb">Bike Sharing Regression</a>
 
 From chapter 3 - <a href="../master/Epileptic Seizure Classification.ipynb">Epileptic Seizure Classification</a>
+
+From chapter 5 - <a href="../master/Arcene Cancer Classification.ipynb">Arcene Cancer Classification using SVM</a>
