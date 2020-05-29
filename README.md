@@ -3,13 +3,26 @@ I am using the excellent book of Aurélian Géron "Hands-On Machine Learning wit
 
 Chapter 2 has a detailed end to end project that is great template for any ML predictive model. 
 
-<a href="../master/Bike Sharing Regression.ipynb">Bike Sharing Regression</a>
-
-<a href="../master/Epileptic Seizure Classification.ipynb">Epileptic Seizure Classification</a>
-
-<a href="../master/Arcene Cancer Classification.ipynb">Arcene Cancer Classification using SVM</a>
-
-<a href="../master/Motion Capture Hand Postures.ipynb">Motion Capture Hand Postures Ensemble</a>
+<table>
+    <tbody>   
+         <tr>
+            <td><a href="../master/Bike Sharing Regression.ipynb">Bike Sharing Regression</a></td>
+            <td><img src="../master/images/bike_sharing_pic.png" width="200" height="150" /></td>
+        </tr>
+        <tr>
+            <td><a href="../master/Epileptic Seizure Classification.ipynb">Epileptic Seizure Classification</a></td>
+            <td><img src="../master/images/epileptic_seizure_pic.png" width="200" height="150" /></td>
+        </tr>
+         <tr>
+            <td><a href="../master/Arcene Cancer Classification.ipynb">Arcene Cancer Classification using SVM</a></td>
+            <td><img src="../master/images/arcene_cancer_pic.png" width="200" height="150" /></td>
+        </tr>
+        <tr>
+            <td><a href="../master/Motion Capture Hand Postures.ipynb">Motion Capture Hand Postures Ensemble</a></td>
+            <td><img src="../master/images/motion_capture_pic.png" width="200" height="150" /></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <table>
