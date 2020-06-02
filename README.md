@@ -21,6 +21,10 @@ Chapter 2 has a detailed end to end project that is great template for any ML pr
             <td><a href="../master/Motion Capture Hand Postures.ipynb">Motion Capture Hand Postures Ensemble</a></td>
             <td><img src="../master/images/motion_capture_pic.png" width="200" height="150" /></td>
         </tr>
+        <tr>
+            <td><a href="../master/Avila Classification.ipynb">Avila Dimensionality Reduction</a></td>
+            <td><img src="../master/images/avila_pic.png" width="200" height="150" /></td>
+        </tr>
     </tbody>
 </table>
 
