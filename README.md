@@ -5,7 +5,7 @@ I am using the excellent book of Aurélian Géron "Hands-On Machine Learning wit
 
 Chapter 2 has a detailed end to end project that is great template for any ML predictive model. 
 
-`Heart equation - Gabriel Taubin (Wolfrma MathWorld)`
+`Heart equation - Gabriel Taubin (Wolfram MathWorld)`
 
 <table>
     <tbody>   
