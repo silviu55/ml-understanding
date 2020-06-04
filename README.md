@@ -29,6 +29,10 @@ Chapter 2 has a detailed end to end project that is great template for any ML pr
             <td><a href="../master/Avila Classification.ipynb">Avila Dimensionality Reduction</a></td>
             <td><img src="../master/images/avila_pic.png" width="200" height="150" /></td>
         </tr>
+        <tr>
+            <td><a href="../master/Bostong Housing Regression.ipynb">Bostong Housing Regression using Keras</a></td>
+            <td><img src="../master/images/boston_housing_pic.png" width="200" height="150" /></td>
+        </tr>
     </tbody>
 </table>
 
@@ -59,6 +63,10 @@ Chapter 2 has a detailed end to end project that is great template for any ML pr
         <tr>
             <td>Jupyter notebook</td>
             <td>6.0.3</td>
+        </tr>
+        <tr>
+            <td>TensorFlow</td>
+            <td>2.1</td>
         </tr>
     </tbody>
 </table>
