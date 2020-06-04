@@ -30,7 +30,7 @@ Chapter 2 has a detailed end to end project that is great template for any ML pr
             <td><img src="../master/images/avila_pic.png" width="200" height="150" /></td>
         </tr>
         <tr>
-            <td><a href="../master/Bostong Housing Regression.ipynb">Bostong Housing Regression using Keras</a></td>
+            <td><a href="../master/Boston Housing Regression.ipynb">Boston Housing Regression using Keras</a></td>
             <td><img src="../master/images/boston_housing_pic.png" width="200" height="150" /></td>
         </tr>
     </tbody>
