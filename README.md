@@ -8,7 +8,7 @@ I am using the excellent book of Aurélian Géron "Hands-On Machine Learning wit
 <table>
     <tbody>
         <tr>
-            <td><a href="../master/Twitter Airline Sentiment.ipynb">8. Twitter Airline Sentiment (Text Classification) with GloVe word embeddings</a></td>
+            <td><a href="../master/Twitter Airline Sentiment.ipynb">8. Twitter Airline Sentiment (Text Classification) with <br>       GloVe word embeddings</br></a></td>
             <td><img src="../master/images/twitter_airline_sentiment_pic.png" width="200" height="150" /></td>
         </tr>
         <tr>
