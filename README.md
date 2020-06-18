@@ -24,19 +24,37 @@ I am using the excellent book of Aurélian Géron "Hands-On Machine Learning wit
             <td><img src="../master/images/avila_pic.png" width="200" height="150" /></td>
         </tr>
         <tr>
-            <td><a href="../master/Motion Capture Hand Postures.ipynb">4. Motion Capture Hand Postures Ensemble</a></td>
+            <td><a href="../master/Motion Capture Hand Postures.ipynb">4. Motion Capture Hand Postures Ensemble</a>
+                <br> <b>NumPy:</b> nan
+                <br> <b>matplotlib:</b> scatter
+                <br> <b>SkLearn:</b> SimpleImputer, RidgeClassifier, VotingClassifier, ExtraTreesClassifier
+            </td>
             <td><img src="../master/images/motion_capture_pic.png" width="200" height="150" /></td>
         </tr>
         <tr>
-            <td><a href="../master/Arcene Cancer Classification.ipynb">3. Arcene Cancer Classification using SVM</a></td>
+            <td><a href="../master/Arcene Cancer Classification.ipynb">3. Arcene Cancer Classification using SVM</a>
+                <br> <b>NumPy:</b> ravel
+                <br> <b>Pandas:</b> concat
+                <br> <b>DataFrame:</b> T, iloc
+                <br> <b>SkLearn:</b> LinearSVC, SVC, RandomForestRegressor
+            </td>
             <td><img src="../master/images/arcene_cancer_pic.png" width="200" height="150" /></td>
         </tr>
         <tr>
-            <td><a href="../master/Epileptic Seizure Classification.ipynb">2. Epileptic Seizure Classification</a></td>
+            <td><a href="../master/Epileptic Seizure Classification.ipynb">2. Epileptic Seizure Classification</a>
+                <br> <b>NumPy:</b> shape, random.permutation, fill_diagonal
+                <br> <b>DataFrame:</b> rename, copy
+                <br> <b>matplotlib:</b> pyplot, figure, legend, matshow
+                <br> <b>SkLearn:</b> SGDClassifier, confusion_matrix, precision_score, recall_score, f1_score, <br> precision_recall_curve, roc_curve, RandomForestClassifier
+            </td>
             <td><img src="../master/images/epileptic_seizure_pic.png" width="200" height="150" /></td>
         </tr>
          <tr>
-            <td><a href="../master/Bike Sharing Regression.ipynb">1. Bike Sharing Regression</a></td>
+            <td><a href="../master/Bike Sharing Regression.ipynb">1. Bike Sharing Regression</a>
+                <br> <b>Pandas:</b> read_csv
+                <br> <b>DataFrame:</b> head, describe, hist, plot, drop, corr
+                <br> <b>SkLearn:</b> train_test_split, OneHotEncoder, Pipeline, StandardScaler, LinearRegression, <br> mean_squared_error,  DecisionTreeRegressor, fit, predict, cross_val_score, <br> GridSearchCV, RandomizedSearchCV, feature_importances_
+            </td>
             <td><img src="../master/images/bike_sharing_pic.png" width="200" height="150" /></td>
         </tr>
     </tbody>
