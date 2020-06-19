@@ -7,6 +7,14 @@ I am using the excellent book of Aurélian Géron "Hands-On Machine Learning wit
 
 <table>
     <tbody>
+         <tr>
+            <td><a href="../master/Credit Card Fraud Detection.ipynb">9. Credit Card Fraud Detection (Imbalanced Classification)</a>
+                <br> <b>General:</b> warnings.filterwarnings
+                <br> <b>NumPy:</b> bincount, random.choice, concatenate
+                <br> <b>SkLearn:</b> class_weight
+            </td>
+            <td><img src="../master/images/credit_card_fraud_pic.png" width="200" height="150" /></td>
+        </tr>
         <tr>
             <td><a href="../master/Twitter Airline Sentiment.ipynb">8. Twitter Airline Sentiment (Text Classification) with <br>       GloVe word embeddings</a>
                 <br> <b>General:</b> io.open
@@ -92,15 +100,15 @@ I am using the excellent book of Aurélian Géron "Hands-On Machine Learning wit
     <tbody>   
          <tr>
             <td>Python</td>
-            <td>3.7.6</td>
+            <td>3.7.7</td>
         </tr>
         <tr>
             <td>scikit-learn</td>
             <td>0.22.1</td>
         </tr>
          <tr>
-            <td>ipython</td>
-            <td>7.12.0</td>
+            <td>IPython</td>
+            <td>7.15.0</td>
         </tr>
         <tr>
             <td>Jupyter notebook</td>
