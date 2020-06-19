@@ -1,7 +1,7 @@
 # Machine Learning Understanding
 <img src="../master/images/Abstract logo.png" align="right" width="300" height="250" /> 
 
-I am using the excellent book of Aurélian Géron "Hands-On Machine Learning with Scikit-Learn and TensorFlow" to discover both the ML theory and its techniques. Its chapter 2 has a detailed end to end project that is great template for any ML predictive model. 
+I am using the excellent book of Aurélian Géron "Hands-On Machine Learning with Scikit-Learn and TensorFlow", Scikit learn, TensorFlow and Keras documentation & code examples to discover both the ML theory and its techniques. Stack Overflow and Google are always helpful. 
 
 `Heart equation - Gabriel Taubin (Wolfram MathWorld)`
 
