@@ -3,7 +3,7 @@
 
 I am using the excellent book of Aurélian Géron "Hands-On Machine Learning with Scikit-Learn and TensorFlow", Scikit learn, TensorFlow and Keras documentation & code examples to discover both the ML theory and its techniques. Stack Overflow and Google are always helpful. 
 
-`Heart equation - Gabriel Taubin (Wolfram MathWorld)`
+`Weisstein, Eric W. "Chair Surface." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/ChairSurface.html`
 
 <table>
     <tbody>
